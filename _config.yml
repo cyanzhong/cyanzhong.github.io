@@ -25,3 +25,5 @@ markdown: kramdown
 
 # Google Analytics tracking ID
 ga_tracking_id: ""
+
+permalink: /:title
