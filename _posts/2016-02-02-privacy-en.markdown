@@ -1,6 +1,7 @@
 ---
-title: Pin Privacy
 layout: post
+title:  Pin Privacy
+date:   2016-02-02 15:00:00 +0800
 categories: Markdown
 ---
 

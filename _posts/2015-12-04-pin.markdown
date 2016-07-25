@@ -1,6 +1,7 @@
 ---
-title: Pin - 剪贴板扩展
 layout: post
+title:  Pin - 剪贴板扩展
+date:   2015-12-04 15:00:00 +0800
 categories: Markdown
 ---
 
