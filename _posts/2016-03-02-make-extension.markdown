@@ -2,7 +2,7 @@
 layout: post
 title:  Make Extension
 date:   2016-03-02 15:00:00 +0800
-categories: Markdown
+categories: macOS
 ---
 
 # How to Make Extension for Pin (OS X)

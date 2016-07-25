@@ -2,7 +2,7 @@
 layout: post
 title:  Pin Extensions
 date:   2016-03-01 15:00:00 +0800
-categories: Markdown
+categories: macOS
 ---
 
 # Explore Extensions for Pin (OS X) 
