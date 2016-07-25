@@ -1,5 +1,7 @@
 ---
 title: Pin - 剪贴板扩展
+layout: post
+categories: Markdown
 ---
 
 # 视频教程

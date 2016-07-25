@@ -1,5 +1,7 @@
 ---
 title: Make Extension
+layout: post
+categories: Markdown
 ---
 
 # How to Make Extension for Pin (OS X)

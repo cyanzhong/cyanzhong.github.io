@@ -1,5 +1,7 @@
 ---
 title: Pin Privacy
+layout: post
+categories: Markdown
 ---
 
 # Privacy

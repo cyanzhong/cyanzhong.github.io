@@ -1,5 +1,7 @@
 ---
 title: Pin Extensions
+layout: post
+categories: Markdown
 ---
 
 # Explore Extensions for Pin (OS X) 
