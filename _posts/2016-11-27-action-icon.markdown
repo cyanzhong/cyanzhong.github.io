@@ -17,5 +17,10 @@ categories: iOS/macOS
 - [EasyIcon](http://www.easyicon.net/)
 - [FlatIcon](http://www.flaticon.com/)
 
+# 制作方式
+- 使用 PS 等工具根据上述标准制作好 PNG/JPG 格式的图片
+- 将图片保存到 iPhone 系统相册
+- 在 Pin 里面编辑动作，选择图标 -> 自定义 来选取制作的图标
+
 # 技术支持 
 你可以在微博上面 at 我们 **[@StackOverflowError](http://weibo.com/0x00eeee)**，也可以发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
