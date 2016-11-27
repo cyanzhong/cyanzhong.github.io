@@ -22,5 +22,14 @@ categories: iOS/macOS
 - 将图片保存到 iPhone 系统相册
 - 在 Pin 里面编辑动作，选择图标 -> 自定义 来选取制作的图标
 
+# 提交制作需求
+Pin 内置的图标有限，欢迎提交制作图标的需求，对于合理的要求我们会予以考虑。
+请以 “Pin 动作图标” 未标题发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
+邮件请包括如下内容：
+
+图标用处：
+所属应用：
+样例图片：
+
 # 技术支持 
 你可以在微博上面 at 我们 **[@StackOverflowError](http://weibo.com/0x00eeee)**，也可以发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
