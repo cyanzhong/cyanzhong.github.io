@@ -6,10 +6,10 @@ categories: iOS/macOS
 ---
 
 # 制作标准
-- 保持背景色为透明或者白色
-- 图标内容为深色（例如黑色），尽量保证纯色
+- 保持背景色为透明色
+- 图标内容为深色（例如 #606060），尽量保证纯色
 - 最佳图片尺寸：72px * 72px
-- 样例图片：[下载](https://raw.githubusercontent.com/cyanzhong/cyanzhong.github.io/master/assets/images/pin-icon-battery.png)
+- 样例图片：[查看](https://raw.githubusercontent.com/cyanzhong/cyanzhong.github.io/master/assets/images/pin-icon-battery.png)
 
 # 推荐网站
 - [Iconfactory](http://iconfactory.com/freeware)
@@ -19,7 +19,7 @@ categories: iOS/macOS
 - [FlatIcon](http://www.flaticon.com/)
 
 # 制作方式
-- 使用 PS 等工具根据上述标准制作好 PNG/JPG 格式的图片
+- 使用 PS 等工具根据上述标准制作好 PNG 格式的图片（不能丢掉 alpha 通道）
 - 使用 [TinyPNG](https://tinypng.com/) 等网站压缩图片（可选）
 - 将图片保存到 iPhone 系统相册
 - 在 Pin 里面 `编辑动作 -> 选择图标 -> 从相册选择` 来选取制作的图标
