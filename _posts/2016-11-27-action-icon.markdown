@@ -9,7 +9,7 @@ categories: iOS/macOS
 - 保持背景色为透明或者白色
 - 图标内容为深色（例如黑色），尽量保证纯色
 - 最佳图片尺寸：72px * 72px
-- 样例图片：
+- 样例图片：[下载](https://raw.githubusercontent.com/cyanzhong/cyanzhong.github.io/master/assets/images/pin-icon-battery.png)
 
 # 推荐网站
 - [Iconfactory](http://iconfactory.com/freeware)
