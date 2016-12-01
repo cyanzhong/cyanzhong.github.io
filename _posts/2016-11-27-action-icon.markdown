@@ -26,7 +26,7 @@ categories: iOS/macOS
 
 # 提交制作需求
 Pin 内置的图标有限，为了更广的覆盖常见场景，欢迎提交制作图标的需求，对于合理的要求我们会予以考虑。
-请以 “Pin 动作图标” 未标题发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
+请以 “Pin 动作图标” 为标题发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
 邮件请包括如下内容：
 
 图标用途：
