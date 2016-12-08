@@ -6,7 +6,7 @@ categories: iOS/macOS
 ---
 
 # 视频合集
-在这里我会手把手教你使用 Pin：http://ioszen.com/pin-videos
+在这里我会手把手教你使用 Pin：[http://ioszen.com/pin-videos](http://ioszen.com/pin-videos)
 
 # 视频教程
 这里有一个视频教程，不想看本文的可以直接看视频
