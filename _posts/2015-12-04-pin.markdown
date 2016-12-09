@@ -6,7 +6,7 @@ categories: iOS/macOS
 ---
 
 # [视频合集](http://ioszen.com/pin-videos)
-- [下载安装](https://v.qq.com/x/page/v0353ybultn.html)
+- [下载安装](https://v.qq.com/x/page/v0353ybultn.html){:target="_blank"}
 - [基本使用](https://v.qq.com/x/page/q0353kpuwa9.html)
 - [iCloud](https://v.qq.com/x/page/t0353yqfw9e.html)
 - [分词](https://v.qq.com/x/page/g03538y14ex.html)
