@@ -16,6 +16,8 @@ categories: iOS/macOS
 - [扩展功能](https://v.qq.com/x/page/w03533lrqw2.html){:target="_blank"}
 - [补充内容](https://v.qq.com/x/page/p0353kprgpo.html){:target="_blank"}
 
+**你可以在 Pin 的关于页面找到本教程的入口**
+
 # 媒体测评
 [瘋先生《[iPhone/iPad必裝] 改變你的生活習慣操作！iOS萬能多功能剪貼神器Pin降臨》](https://mrmad.com.tw/ios-pin-app)
 

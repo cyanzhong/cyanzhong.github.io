@@ -16,6 +16,8 @@ categories: iOS/macOS
 - [扩展功能](https://v.qq.com/x/page/w03533lrqw2.html){:target="_blank"}
 - [补充内容](https://v.qq.com/x/page/p0353kprgpo.html){:target="_blank"}
 
+**你可以在 Pin 的关于页面找到本教程的入口**
+
 
 # 技术支持 
 你可以在微博上面 at 我们 **[@StackOverflowError](http://weibo.com/0x00eeee)**，也可以发邮件到 **[log.e@qq.com](mailto:log.e@qq.com)**。
