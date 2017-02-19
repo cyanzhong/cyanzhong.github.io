@@ -5,8 +5,8 @@ date:   2017-02-20 15:00:00 +0800
 categories: iOS/macOS
 ---
 
-# How to use `TodayMind`
-- Install TodayMind on `App Store`
+# How to use TodayMind
+- Install TodayMind on [`App Store`](https://itunes.apple.com/app/1207158665)
 - Open TodayMind and grant to access `Reminder`
 - Open `Notification Center` then swipe to widgets page
 - Click `Edit` to add a new widget named `TodayMind`
