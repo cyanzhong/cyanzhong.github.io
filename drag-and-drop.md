@@ -32,7 +32,7 @@ iOS 11 给用户带来了一种全新的操作方式：`Drag and Drop`：
 
 - **在 iPad 上会有更全面的支持**
 
-  > 其实在官方的视频里面，Apple 是有明确的提到 Drag and Drop 在 iPhone 上的支持只能在应用内（不能像 iPad 那样跨应用操作），但是我们可以发现目前的 iOS 11 Beta 里面其实是可以做到跨应用的，就像这个视频一样：https://www.youtube.com/watch?v=WcmAyTsVCVo。当然我们需要了解的是，不管最终我们能不能做到 iPhone 上的跨屏拖拽，iPad 的跨屏体验始终是要比 iPhone 好很多的，所以可想而知的是，以后的 iPad 应用大多都会对 Drag and Drop 提供不错的支持。
+  > 其实在官方的视频里面，Apple 是有明确的提到 Drag and Drop 在 iPhone 上的支持只能在应用内（不能像 iPad 那样跨应用操作），但是我们可以发现目前的 iOS 11 Beta 里面其实是可以做到跨应用的，就像[这个视频](https://www.youtube.com/watch?v=WcmAyTsVCVo)一样，当然我们需要了解的是，不管最终我们能不能做到 iPhone 上的跨屏拖拽，iPad 的跨屏体验始终是要比 iPhone 好很多的，所以可想而知的是，以后的 iPad 应用大多都会对 Drag and Drop 提供不错的支持。
 
 - **Spring-loading**
 
