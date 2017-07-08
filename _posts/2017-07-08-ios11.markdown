@@ -5,5 +5,16 @@ date:   2017-07-08 15:00:00 +0800
 categories: iOS/macOS
 ---
 
+# Pin 在 iOS 11 上面的限制
+
+Apple 在 iOS 11 上面做了大量的改动，导致 Pin 的一部分功能无法继续使用，具体的表现如下：
+
+- iOS 11 去掉了社交分享 SDK，所以 Pin 无法再使用分享到某个 app 的功能
+- 在 iOS 11 上，通知中心输入需要点击两次输入框
+- 通知中心无法使用全功能的浏览器，上下滚动受到限制
+- 通知中心分词功能无法滑动选择词块
+
+以上是目前 iOS 11 上面的体验问题，我们在积极地寻找替代的解决方案，敬请谅解。
+
 # Contacts
 在微博找到我们 **[@StackOverflowError](http://weibo.com/0x00eeee)**, 或者发邮件给我们 **[log.e@qq.com](mailto:log.e@qq.com)**。
