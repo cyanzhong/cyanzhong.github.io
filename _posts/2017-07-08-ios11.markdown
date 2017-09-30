@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  iOS 11
-date:   2017-07-08 15:00:00 +0800
-categories: iOS/macOS
+title: iOS 11
+date: 2017-07-08 15:00:00 +0800
+categories: iOS
 ---
 
 # Pin 在 iOS 11 上面的限制
@@ -18,5 +18,6 @@ Apple 在 iOS 11 上面做了大量的改动，导致 Pin 的一部分功能无�
 
 以上是目前 iOS 11 上面的体验问题，我们在积极地寻找替代的解决方案，敬请谅解。
 
-# Contacts
+# 联系方式
+
 在微博找到我们 **[@StackOverflowError](http://weibo.com/0x00eeee)**, 或者发邮件给我们 **[log.e@qq.com](mailto:log.e@qq.com)**。

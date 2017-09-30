@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Pin - 剪贴板扩展
-date:   2015-12-04 15:00:00 +0800
-categories: iOS/macOS
+title: Pin - 剪贴板扩展
+date: 2015-12-04 15:00:00 +0800
+categories: iOS
 ---
 
 # [视频合集](http://v.qq.com/vplus/40bc4f6c6b37db6ea0b6c87bb849e22c/foldervideos/5q400010143fjzf)
@@ -20,6 +20,8 @@ categories: iOS/macOS
 **你可以在 Pin 的关于页面找到本教程的入口**
 
 # 媒体测评
+
+[Mac 玩儿法《Pin：果粉必须要尝试的剪贴板扩展工具「OS X & iOS」》](http://waerfa.com/pin-review)
 
 [瘋先生《[iPhone/iPad必裝] 改變你的生活習慣操作！iOS萬能多功能剪貼神器Pin降臨》](http://mrmad.com.tw/ios-pin-app)
 
