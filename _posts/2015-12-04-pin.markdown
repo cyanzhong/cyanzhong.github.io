@@ -21,8 +21,6 @@ categories: iOS/macOS
 
 # 媒体测评
 
-[Mac 玩儿法《Pin：果粉必须要尝试的剪贴板扩展工具「OS X & iOS」》](http://waerfa.com/pin-review)
-
 [瘋先生《[iPhone/iPad必裝] 改變你的生活習慣操作！iOS萬能多功能剪貼神器Pin降臨》](http://mrmad.com.tw/ios-pin-app)
 
 [AppSolution《苹果重点推荐的剪贴板神器，到底有多好用？- Pin #iOS #AppStory》](http://www.ifanr.com/app/622387)
